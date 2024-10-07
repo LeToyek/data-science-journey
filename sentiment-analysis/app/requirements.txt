@@ -1,0 +1,6 @@
+nltk
+streamlit
+pandas
+numpy
+Sastrawi
+tqdm
