@@ -1,0 +1,14 @@
+# basic
+
+numpy
+pandas
+scipy
+matplotlib
+nltk
+keras
+tensorflow
+
+# vectorization
+scikit-learn
+gensim
+sentence-transformers
